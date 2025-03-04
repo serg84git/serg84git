@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello all! 👋
 
+### There is absolutely nothing to see here 😶
 <!--
 **serg84git/serg84git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
